@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e4f64b26-35db-4282-8c2f-c37f1f8acbcc)
 # Static-Thrust-Test
 This repo provides the code used to calibrate the load cell before performing the static test. 
 Hardware used are: 
